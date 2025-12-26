@@ -1,4 +1,9 @@
+## About me:
+I am Rabel Memon, a Computer Science student with a growing interest in software development and technology. I am currently learning and practicing programming concepts using Python and Java, and exploring data handling with NumPy.
 
+My primary focus is on building a strong technical foundation, improving problem-solving skills, and understanding how software systems work in real-world applications. I use Notion to organize my learning and academic projects.
+
+In addition to my technical learning, I occasionally engage in writing as a way to reflect and maintain mental clarity, and I also enjoy reading books, which helps broaden my perspective and supports continuous personal growth.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heruntolddiary6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rabel-memon-257438224) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rabelflower2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rabelflower2@gmail.com) 
 
