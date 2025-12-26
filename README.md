@@ -1,5 +1,5 @@
 ## About me:
-I am Rabel Memon, a Computer Science student with a growing interest in software development and technology. I am currently learning and practicing programming concepts using Python and Java, and exploring data handling with NumPy.
+Hello,I am Rabel Memon, a Computer Science student with a growing interest in software development and technology. I am currently learning and practicing programming concepts using Python and Java, and exploring data handling with NumPy.
 
 My primary focus is on building a strong technical foundation, improving problem-solving skills, and understanding how software systems work in real-world applications. I use Notion to organize my learning and academic projects.
 
